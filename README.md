@@ -1,6 +1,6 @@
 # PCA
 
-Description: perform PCA on Optical Recognition of [Handwritten Digits Data Set](http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits)
+Description: perform PCA on [Optical Recognition of Handwritten Digits Data Set](http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits)
 
 Table of Contents:
 
